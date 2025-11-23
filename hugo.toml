@@ -1,3 +1,89 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://example.com/"      # change to your real URL or GitHub Pages URL
+languageCode = "en-us"
+title = "Freddy Flores – Research"
+theme = "PaperMod"
+
+# Optional but useful
+# paginate = 10
+enableRobotsTXT = true
+
+[params]
+  
+  author = "Freddy Flores"
+  description = "Research in empirical asset pricing, fixed-income markets, and pension-fund driven market dynamics."
+  defaultTheme = "auto"              # auto | dark | light
+  customCSS = ["css/custom.css"]
+  disableThemeToggle = false
+
+  # General UI
+  showReadingTime = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+  showPostNavLinks = true
+  showToc = true
+  showShareButtons = false
+  hideFooter = false
+
+  # Home page: treat it as a simple list of content
+  mainSections = ["research"]
+
+  # Optional: logo / profile mode later if you want a big hero section
+  # [params.profileMode]
+  #   enabled = true
+  #   title = "Freddy Flores"
+  #   subtitle = "Research in empirical asset pricing and fixed-income markets"
+  #   imageUrl = "/images/profile.jpg"
+
+  # Social icons (PaperMod style)
+  [[params.socialIcons]]
+    name = "github"
+    url  = "https://github.com/YourGitHubUser"
+
+  [[params.socialIcons]]
+    name = "google-scholar"
+    url  = "https://scholar.google.com/YourScholarProfile"
+
+  [[params.socialIcons]]
+    name = "email"
+    url  = "mailto:your.email@example.com"
+
+# --------------------------
+# Top navigation menu
+# --------------------------
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+    weight     = 1
+
+  [[menu.main]]
+    identifier = "research"
+    name       = "Research"
+    url        = "/research/"
+    weight     = 2
+
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "/cv/"
+    weight     = 3
+
+  [[menu.main]]
+    identifier = "teaching"
+    name       = "Teaching"
+    url        = "/teaching/"
+    weight     = 4
+
+  [[menu.main]]
+    identifier = "code"
+    name       = "Code"
+    url        = "/code/"
+    weight     = 5
+
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
+    weight     = 6

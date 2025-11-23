@@ -1,0 +1,50 @@
+/* === Stanford / Harvard Academic Crimson Style === */
+
+body {
+    font-family: "Georgia", serif !important;
+    font-size: 20px;
+    line-height: 1.55;
+    color: #2a2a2a;
+    background: #fafafa;
+}
+
+/* Primary Stanford Crimson */
+:root {
+    --accent: #8c1515;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: var(--accent) !important;
+    font-weight: 600 !important;
+}
+
+/* Links */
+a {
+    color: var(--accent) !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: underline !important;
+    color: #5e0f0f !important;
+}
+
+/* Navigation bar */
+.navbar {
+    background: var(--accent) !important;
+    color: white !important;
+}
+
+.navbar a {
+    color: white !important;
+}
+
+.navbar a:hover {
+    color: #ffeded !important;
+}
+
+/* Section spacing */
+section {
+    margin-bottom: 2rem !important;
+}
