@@ -1,6 +1,6 @@
-baseURL = "https://example.com/"      # change to your real URL or GitHub Pages URL
+baseURL = "https://www.freddy-flores-o.com/"
 languageCode = "en-us"
-title = "Freddy Flores – Research"
+title = "Freddy Flores – Personal Webpage"
 theme = "PaperMod"
 
 # Optional but useful
