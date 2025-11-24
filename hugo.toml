@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Freddy Flores – Personal Webpage"
 theme = "PaperMod"
 
+[outputs]
+  home = ["HTML", "RSS"]
+
 # Optional but useful
 # paginate = 10
 enableRobotsTXT = true
@@ -87,3 +90,4 @@ enableRobotsTXT = true
     name       = "Contact"
     url        = "/contact/"
     weight     = 6
+
