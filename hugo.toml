@@ -3,9 +3,16 @@ languageCode = "en-us"
 title = "Freddy Flores – Personal Webpage"
 theme = "PaperMod"
 disableIntegrity = true
+enableRobotsTXT = true
 
 [outputs]
-  home = ["HTML", "RSS"]
+
+  home     = ["HTML", "RSS"]
+  page     = ["HTML"]
+  section  = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term     = ["HTML"]
+
 
 # Optional but useful
 # paginate = 10
