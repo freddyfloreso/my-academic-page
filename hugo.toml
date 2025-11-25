@@ -9,8 +9,6 @@ disableIntegrity = true
 
 # Optional but useful
 # paginate = 10
-enableRobotsTXT = true
-
 
 [params]
   
