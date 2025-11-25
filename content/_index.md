@@ -1,6 +1,7 @@
 ---
 title: "Freddy Flores – Research"
 description: "Research in empirical asset pricing, sovereign bond markets, and macro–finance."
+layout: "home"
 cascade:
   showSummary: true
 ---

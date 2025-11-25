@@ -5,9 +5,11 @@ theme = "PaperMod"
 disableIntegrity = true
 enableRobotsTXT = true
 
+
 [outputs]
 
-  home     = ["HTML", "RSS"]
+  #home     = ["HTML", "RSS"]
+  home     = ["html"]
   page     = ["HTML"]
   section  = ["HTML", "RSS"]
   taxonomy = ["HTML"]
