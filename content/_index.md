@@ -6,5 +6,5 @@ cascade:
   showSummary: true
 ---
 
-Welcome to my academic webpage.  
+Welcome to my academic webpage.
 Here you will find my research papers, code, teaching materials, and ongoing projects.
