@@ -99,4 +99,3 @@ enableRobotsTXT = true
     name       = "Contact"
     url        = "/contact/"
     weight     = 6
-
