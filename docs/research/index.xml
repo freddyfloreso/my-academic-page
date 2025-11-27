@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research on Freddy Flores – Personal Webpage</title>
+    <link>https://freddy-flores-o.com/research/</link>
+    <description>Recent content in Research on Freddy Flores – Personal Webpage</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://freddy-flores-o.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pension Fund Withdrawals: An Event-Study Analysis</title>
+      <link>https://freddy-flores-o.com/research/papers/afp-withdrawals-peru/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://freddy-flores-o.com/research/papers/afp-withdrawals-peru/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; This paper examines the impact of multiple pension fund withdrawal laws
+on Peruvian equity using Event Study Analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Working paper&lt;br&gt;
+&lt;strong&gt;Keywords:&lt;/strong&gt; asset pricing, sovereign bonds, pension funds, Peru&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 +++
 date = '2025-11-23T05:20:23-05:00'
-draft = true
+draft = false
 title = 'Contact'
 +++
 

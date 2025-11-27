@@ -1,6 +1,6 @@
 +++
 date = '2025-11-23T05:20:13-05:00'
-draft = true
+draft = false
 title = 'About'
 +++
 I am a researcher in financial economics with a focus on empirical asset pricing,
