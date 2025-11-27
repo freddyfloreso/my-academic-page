@@ -1,7 +1,7 @@
 +++
 date = '2025-11-23T06:12:12-05:00'
 draft = false
-title = 'Bvar Models'
+title = 'BVAR Models'
 +++
 
 Below are my Bayesian VAR curve estimation for Peruvian yield curve modelling modules, uploaded for replication:

@@ -7,3 +7,8 @@ title = 'Code'
 This section contains my research toolkits, including event-study code,
 yield-curve estimation pipelines, BVAR modeling scripts, and portfolio-analysis
 modules.
+
+
+## BVAR Term-Structure Models
+
+- [BVAR Models](/code/bvar-models/)

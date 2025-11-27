@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freddy-flores-o.com/code/bvar-models/</loc>
+    <lastmod>2025-11-23T06:12:12-05:00</lastmod>
+  </url><url>
     <loc>https://freddy-flores-o.com/</loc>
     <lastmod>2025-11-23T06:12:12-05:00</lastmod>
   </url><url>
     <loc>https://freddy-flores-o.com/code/</loc>
+    <lastmod>2025-11-23T06:12:11-05:00</lastmod>
+  </url><url>
+    <loc>https://freddy-flores-o.com/code/event-study/</loc>
     <lastmod>2025-11-23T06:12:11-05:00</lastmod>
   </url><url>
     <loc>https://freddy-flores-o.com/contact/</loc>

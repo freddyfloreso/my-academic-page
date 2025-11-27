@@ -4,11 +4,11 @@ draft = false
 title = 'CV'
 +++
 
-You can download my full CV here:
+#You can download my full CV here:
 
-[**Download CV (PDF)**](/cv/FreddyFloresCV.pdf)
+#[**Download CV (PDF)**](/cv/FreddyFloresCV.pdf)
 
-**Current position**  
+**Current activity**  
 - Master's student in Economic Engineering, UNI (Lima, Peru)
 
 **Research interests**  
