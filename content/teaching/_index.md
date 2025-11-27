@@ -4,7 +4,9 @@ draft = false
 title = 'Teaching'
 +++
 
-#I have experience as a teaching assistant in courses related to:
+<!-- I have experience as a teaching assistant in courses related to:
 
-#- Continuous Asset Pricing
-#- Heterogenous Agent Models
+- Continuous Asset Pricing
+- Heterogenous Agent Models
+ -->
+

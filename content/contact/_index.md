@@ -7,7 +7,7 @@ title = 'Contact'
 You can reach me at:
 
 **Email:** freddy.flores.o@uni.pe
-**LinkedIn:** https://www.linkedin.com/in/freddy-flores-ortega-38b778127/
+<!--**LinkedIn:** https://www.linkedin.com/in/freddy-flores-ortega-38b778127/
 
 I am happy to receive messages about research collaborations, comments on my work,
 or supervision opportunities.
@@ -15,3 +15,4 @@ or supervision opportunities.
 And you can access my public codes at:
 
 - **GitHub:** https://github.com/freddyfloreso
+-->
